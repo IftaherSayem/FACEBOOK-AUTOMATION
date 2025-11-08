@@ -97,8 +97,7 @@ Contributions that enable evasion of platform protections, mass unsolicited mess
 ---
 
 
-
-**Short repo description (for GitHub):** Facebook automation demo using Selenium WebDriver to collect follower IDs and send friend requests; intended for testing on accounts you control.
+## ___________________________
 
 **Topics / keywords:** facebook-automation, selenium, selenium-webdriver, social-media-automation, bulk-friend-request, follower-scraping, windows-executable, automation-demo
 
