@@ -56,7 +56,7 @@ Do not run this on personal or production accounts you rely on.
 - **Delays and limits:** If you build from source, implement conservative, randomized delays and processing limits to mimic human behaviour during testing.
 - **Credentials:** Provide credentials at runtime only; never hardcode or commit real account credentials to the repository.
 
-Suggested config options if you add source:
+In future we will add this feature:
 - `target_id` — Facebook profile ID whose followers will be harvested
 - `max_profiles` — Maximum profiles to process
 - `min_delay` / `max_delay` — Random delay range (seconds) between actions
