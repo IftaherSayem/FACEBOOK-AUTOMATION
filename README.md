@@ -99,6 +99,6 @@ Contributions that enable evasion of platform protections, mass unsolicited mess
 
 ## ___________________________
 
-**Topics / keywords:** facebook-automation, selenium, selenium-webdriver, social-media-automation, bulk-friend-request, follower-scraping, windows-executable, automation-demo
+**Keywords:** facebook-automation, selenium, selenium-webdriver, social-media-automation, bulk-friend-request, follower-scraping, windows-executable, automation-demo
 
 ---
